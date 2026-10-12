@@ -1,0 +1,6 @@
+part_name,length_mm,width_mm,height_mm
+Steel_Block,100,50,20
+Aluminium_Plate,200,100,5
+Small_Bracket,30,20,10
+Invalid_Part,-10,20,5
+Zero_Height_Part,50,20,0
